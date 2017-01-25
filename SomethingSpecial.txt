@@ -1,1 +1,3 @@
 Some Pig!
+
+This is some new test, and now I am certain to commit it
